@@ -1,5 +1,5 @@
 # SVEC
-> steps to follow
+> siva sites
 
 - [youtube](https://www.youtube.com/channel/UC961tnW5bkZF0rMripCAFbQ)
 - [blog](http://skishorkumar.blogspot.in)
