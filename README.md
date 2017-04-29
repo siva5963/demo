@@ -1,4 +1,4 @@
 # SVEC
 > steps to follow
 
-- tutorial
+- [youtube](https://www.youtube.com/channel/UC961tnW5bkZF0rMripCAFbQ)
